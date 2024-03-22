@@ -1,0 +1,85 @@
+body{
+
+    background-color: rgb(21, 21, 141);
+
+
+
+}
+
+
+#Form{
+
+      width: 250px;
+      background-color: whitesmoke;
+      margin: 20vh auto 0 auto;
+      padding: 40px;
+      border-radius: 5px;
+      border:  1px solid black;
+
+
+
+
+
+}
+
+
+h1{
+
+text-align: center;
+color: rgb(21, 21, 141); ;
+
+
+
+}
+
+
+#Form button {
+
+background-color: rgb(24, 24, 128);
+color:white;
+padding:10px ;
+font-size: 20px;
+width: 100%;
+cursor: pointer;
+border-radius: 5px;
+border: 1px solid black ;
+
+
+}
+
+
+.InputGroup{
+
+
+ display: flex;
+ flex-direction:column;
+ margin-bottom: 15px;
+
+
+
+}
+
+.InputGroup input{
+
+      
+    display: flex;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 2px;
+    border:1px  solid skyblue;
+    margin-top: 5px;
+
+
+     
+
+
+}
+
+.InputGroup input:focus{
+
+
+
+    outline: 0;
+
+}
+
